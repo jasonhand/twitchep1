@@ -1,0 +1,6 @@
+[submodule "twitchep1/themes/raditian-free-hugo-theme"]
+	path = twitchep1/themes/raditian-free-hugo-theme
+	url = https://github.com/radity/raditian-free-hugo-theme
+[submodule "twitchep1/themes/kross-hugo"]
+	path = twitchep1/themes/kross-hugo
+	url = https://github.com/themefisher/kross-hugo
